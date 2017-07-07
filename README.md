@@ -1,4 +1,4 @@
-# Predictin concrete slumping, and other properties using a linear regression model
+# Predicting concrete slumping, and other properties using a linear regression model
 
 This notebook illustrates a quick application of linear regression to a dataset found on the UCI ML database. 
 
